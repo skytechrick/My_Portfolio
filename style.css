@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+    height: 100vh;
+    
+    width: 100vw;
+    font-family: sans-serif;
+    background: rgb(37,37,37);
+    background: linear-gradient(346deg, rgba(37,37,37,1) 0%, rgba(116,0,0,1) 35%, rgba(37,37,37,1) 100%);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+.HeadingTop {
+    color: white;
+}
